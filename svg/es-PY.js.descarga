@@ -1,0 +1,38 @@
+const lang_nombreRequerido = 'Ingrese nombre';
+const lang_informandoAsistencia = 'Informando asistencia';
+const lang_confirmarAsistencia = 'Enviar';
+
+const lang_caracteresNombreAsistencia = 'El nombre no debe superar 20 caracteres';
+const lang_caracteresComentariosAsistencia = 'El mensaje no debe superar 100 caracteres';
+
+const lang_asistenciaMsjExito_1 = 'Información enviada';
+const lang_asistenciaMsjExito_2 = 'Hemos enviado tu informacion de asistencia';
+
+
+const lang_cancionRequerida = 'Ingrese nombre de musica / autor';
+const lang_linkIncorrecto = 'Formato link incorrecto';
+const lang_enviandoSugerencia = 'Enviando sugerencia';
+const lang_sugerirCancion = 'Sugerir Canción';
+
+
+const lang_caracteresNombreSugerencia = 'El nombre no debe superar 20 caracteres';
+const lang_caracteresCancionSugerencia = 'El titulo/autor no debe superar 50 caracteres';
+const lang_caracteresLinkSugerencia = 'El link no debe superar 250 caracteres';
+
+
+const lang_sugerirCancionMsjExito_1 = 'Sugerencia enviada';
+const lang_sugerirCancionMsjExito_2 = 'Tu sugerencia de canción se ha agregado a la lista';
+
+const lang_titleModalAsistenciaCeremonia = '¿Asistes a la ceremonia?';
+const lang_titleModalAsistenciaFiesta = '¿Asistes a la fiesta?';
+
+const lang_titleModalMapaFiesta = 'Cómo llegar a la Fiesta';
+const lang_titleModalMapaCeremonia = 'Cómo llegar a la Ceremonia';
+
+
+const lang_codigoAccesoVipRequerido = 'Ingrese el código de acceso';
+const lang_btnCodigoVip = 'Acceder';
+const lang_accediendoCodigoVip = 'Accediendo';
+
+
+const lang_textoFinalCuentaRegresiva = '¡LLEGO EL <br> GRAN DÍA!';
